@@ -29,7 +29,7 @@ The source code for the backend server (available for Node, Rails and Django) ca
 If you want to change the API URL to a local server, simply edit `src/environments/environment.ts` and change `api_url` to the local server's URL (i.e. `localhost:3000/api`)
 
 
-# Getting started Angular
+# Getting started
 
 Make sure you have the [Angular CLI](https://github.com/angular/angular-cli#installation) installed globally, then run `npm install` to resolve all dependencies (might take a minute).
 
